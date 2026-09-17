@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "DHasenour"
 title_separator          : "-"
 name                     : &name "Dillon Hasenour"
@@ -24,10 +24,10 @@ repository               : "DHasenour/DHasenour.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dillon Hasenour"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Graduate Student in physics and astronomy. I study reacting astrophysical flows using moving mesh hydrodyanmics."
+  location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
   email            : "dhasenou@purdue.edu" 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "DHasenour"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
