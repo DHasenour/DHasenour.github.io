@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "DHasenour"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Dillon Hasenour"
 description              : &description "Dillon Hasenour's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
